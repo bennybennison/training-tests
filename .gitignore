@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 #### Custom Removal ####
-.auth_keys
+.auth_keys.py
